@@ -1,4 +1,4 @@
-# Project 1 - What's Trend in 2025?
+# Project 1 - Shopify Clone
 
 ## Developed By  
 Saurabh Singh Negi
