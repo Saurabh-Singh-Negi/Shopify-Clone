@@ -13,4 +13,4 @@ https://shopifyclone-saurabh.netlify.app/
 
 ## TIme Taken
 
-Project took around 24 hours
+Project took around 10 hours
