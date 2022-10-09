@@ -1,4 +1,4 @@
-# Project 1 - Shopify Clone
+# Project 17 - Shopify Clone
 
 ## Developed By  
 Saurabh Singh Negi
